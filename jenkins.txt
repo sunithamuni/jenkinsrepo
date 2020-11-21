@@ -1,0 +1,9 @@
+public class HelloWorld{
+public static void main(string[]args){
+system.out.println(">>>>>>>>>helloworld>>>>>>>>");
+}
+}public class HelloWorld{
+public static void main(string[]args){
+system.out.println(">>>>>>>>>helloworld>>>>>>>>");
+}
+}
